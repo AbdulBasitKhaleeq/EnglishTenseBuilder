@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">765182283169-lnfgu6cs00a3ed9245j7dpuivc8kkrrm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tensebuilder.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">765182283169</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwLMqdH2QYvKD-19S3RlwK9ZdE4qprSiE</string>
+    <string name="google_app_id" translatable="false">1:765182283169:android:b2b4a69e59fcc6d5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwLMqdH2QYvKD-19S3RlwK9ZdE4qprSiE</string>
+    <string name="google_storage_bucket" translatable="false">tensebuilder.appspot.com</string>
+    <string name="project_id" translatable="false">tensebuilder</string>
+</resources>
